@@ -1,4 +1,4 @@
-cons leftSlide = document.querySelector(".left-slide");
+const leftSlide = document.querySelector(".left-slide");
 const rightSlide = document.querySelector(".right-slide");
 const btnDown = document.querySelector(".button-down");
 const btnUp = document.querySelector(".button-up");
